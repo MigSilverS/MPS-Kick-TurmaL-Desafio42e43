@@ -1,0 +1,10 @@
+nome = input("Digite o seu nome: ")
+idade = int(input("Digite a sua idade: "))
+telefone = input("Digite o seu telefone: ")
+email = input("Digite o seu e-mail: ")
+
+print("\nInformações cadastradas:")
+print(f"Nome: {nome}")
+print(f"Idade: {idade}")
+print(f"Telefone: {telefone}")
+print(f"E-mail: {email}")
